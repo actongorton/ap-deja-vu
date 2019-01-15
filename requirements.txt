@@ -2,3 +2,4 @@ fabric3
 flask
 hiredis
 redis
+utils
